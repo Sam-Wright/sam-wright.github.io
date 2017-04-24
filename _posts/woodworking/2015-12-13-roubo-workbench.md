@@ -3,6 +3,7 @@ layout: post
 title:  "Split-Top Roubo Workbench"
 date:   2015-12-13 12:00:01 -0600
 categories: woodworking all
+comments: true
 ---
 
 

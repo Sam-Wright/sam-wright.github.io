@@ -3,6 +3,7 @@ layout: post
 title:  "Brick-Pattern End-Grain Cuttingboard"
 date:   2016-11-27 12:00:01 -0600
 categories: woodworking all
+comments: true
 ---
 
 

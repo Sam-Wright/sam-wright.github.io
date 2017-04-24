@@ -3,6 +3,7 @@ layout: post
 title:  "Childrens Height Chart"
 date:   2016-05-15 12:00:01 -0600
 categories: woodworking all
+comments: true
 ---
 
 

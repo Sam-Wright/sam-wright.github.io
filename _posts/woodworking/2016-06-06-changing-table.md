@@ -3,6 +3,7 @@ layout: post
 title:  "Changing Table For My Son"
 date:   2016-04-18 12:00:01 -0600
 categories: woodworking all
+comments: true
 ---
 
 
