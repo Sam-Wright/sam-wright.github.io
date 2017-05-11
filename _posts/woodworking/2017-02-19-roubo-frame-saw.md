@@ -2,8 +2,9 @@
 layout: post
 title:  "Roubo Frame Saw"
 date:   2017-02-19 12:00:01 -0600
-categories: woodworking all
+category: woodworking
 comments: true
+tags:   woodworking
 ---
 
 This is a 36" Roubo Frame Saw I made from the Blackburn tools blade kit (which comes in a gnarly 2 1/3 TPI). The frame itself is constructed from Red Oak, and is modeled similar to Tom Fidgen's design which he outlined in the [Unplugged Woodshop](http://www.tauntonstore.com/the-unplugged-woodshop-071423.php). 
@@ -15,4 +16,3 @@ The Blackburn blade was purchased with cut teeth, but unsharpened. After careful
 ![Roubo Frame Saw]({{ site.url }}/images/roubo-frame-saw/IMG_20170219_221128.jpg "Roubo Frame Saw")
 
 
-...back to [Woodworking](/woodworking/)

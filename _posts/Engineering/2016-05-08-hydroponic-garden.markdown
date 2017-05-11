@@ -2,7 +2,8 @@
 layout: post
 title:  "Hydroponic Garden"
 date:   2016-05-08 12:00:01 -0600
-categories: engineering all
+category: engineering
+tags:   garden engineering
 comments: true
 ---
 
@@ -23,4 +24,3 @@ The 2 major improvements that need to be addressed in any future iterations:
  
  - The nutrient tank needs better thermal management. This setup left the tank out in direct sun and eventually heated up to where the plants became susceptible to root-rot. Burying the tank or simply shading it would go a long way towards keeping the temperature down.
 
-...back to [Engineering](/engineering/)

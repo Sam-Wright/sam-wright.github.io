@@ -2,8 +2,9 @@
 layout: post
 title:  "Childrens Height Chart"
 date:   2016-05-15 12:00:01 -0600
-categories: woodworking all
+category: woodworking
 comments: true
+tags:   woodworking
 ---
 
 
@@ -17,6 +18,3 @@ In order to mark out my little boys height , we clean away the wax with rubbing 
 
 
 
-
-
-...back to [Woodworking](/woodworking/)

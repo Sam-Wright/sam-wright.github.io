@@ -1,7 +1,8 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: "About"
+description: "Why use Project Pages?"
+header-img: "img/home-bg.jpg"
 ---
 
 I received my BS in Mechanical Engineering in 2012, and my MS in Mechanical Engineering with an emphasis in Robotics in 2014 -- both from the University of Utah. 

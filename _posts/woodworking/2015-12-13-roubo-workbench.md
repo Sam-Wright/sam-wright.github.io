@@ -2,8 +2,9 @@
 layout: post
 title:  "Split-Top Roubo Workbench"
 date:   2015-12-13 12:00:01 -0600
-categories: woodworking all
+category: woodworking 
 comments: true
+tags:   woodworking
 ---
 
 
@@ -17,5 +18,3 @@ I was a little unsure of the 'tool-well' style workbench at first, but have come
 
 ![Split-Top Roubo Workbench]({{ site.url }}/images/split_top_roubo/IMG_20141213_152159.jpg "Split-Top Roubo Workbench")
 
-
-...back to [Woodworking](/woodworking/)

@@ -2,8 +2,9 @@
 layout: post
 title:  "Changing Table For My Son"
 date:   2016-04-18 12:00:01 -0600
-categories: woodworking all
+category: woodworking
 comments: true
+tags:   woodworking
 ---
 
 
@@ -29,5 +30,3 @@ The legs have a slight taper towards the bottom to 'lighten' the legs as the who
 Apart from the obvious need for a changing table, it sure seems like I just needed an excuse for practicing each of the different joining methods. I didn't really notice it at the time, but the joining methods were all over the place.
 
 
-
-...back to [Woodworking](/woodworking/)

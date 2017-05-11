@@ -2,8 +2,9 @@
 layout: post
 title:  "Matching Wooden Planes"
 date:   2016-07-09 12:00:01 -0600
-categories: woodworking all
+category: woodworking
 comments: true
+tags:   woodworking
 ---
 
 I have long envied the planes made by [Scott Meek Woodworks](http://scottmeekwoodworks.com/). I originally saw the planes from watching Shannon Rogers. Clearly I took my own liberties with the design, but here is a matching Jack Plane and Coffin Smoother.
@@ -19,4 +20,3 @@ I have long envied the planes made by [Scott Meek Woodworks](http://scottmeekwoo
 
   ![Wood Jack Plane]({{ site.url }}/images/wood_planes/IMG_20160602_215617.jpg "Wood Jack Plane")
 
-...back to [Woodworking](/woodworking/)
