@@ -1,7 +1,6 @@
 # Site settings
 title: Sam Wright
-description: "  This is a my personal page to serve as a portfolio of my past and present projects in mechanical engineering, woodworking, and anything else that seems interesting.
-"
+description: "This is a my personal page to serve as a portfolio of my past and present projects in mechanical engineering, woodworking, and anything else that seems interesting."
 #url: "http://localhost:4000/"
 url: "https://sam-wright.github.io"
 
@@ -156,4 +155,4 @@ prose:
         field:
           element: "checkbox"
           label: "Visual Workflow Chart (Some Layouts)"
-          value: "true"
+          value: "true" 
