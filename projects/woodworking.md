@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "Woodworking"
-description: "My Description of woodworking stuff"
+description: "Woodworking projects"
 header-img: "img/wood-bg.jpg"
 category: woodworking
 ---

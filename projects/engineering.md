@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "Engineering"
-description: "My Description of engineering stuff"
-header-img: "img/home-bg.jpg"
+description: "Engineering and mechatronic projects"
+header-img: "img/eng-bg.jpg"
 category: engineering
 ---

@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "Software"
-description: "My Description of software stuff"
-header-img: "img/home-bg.jpg"
+description: "Linux related and software based projects"
+header-img: "img/arch-bg.jpg"
 category: software
 ---
