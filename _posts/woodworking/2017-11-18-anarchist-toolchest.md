@@ -15,9 +15,14 @@ For construction details, [buy the book!](https://lostartpress.com/products/the-
 
 
 ![Anarchist Toolchest]({{ site.url }}/images/anarchist-toolchest/IMG_20171118_202922.jpg "Anarchist Toolchest")
+
 ![Anarchist Toolchest]({{ site.url }}/images/anarchist-toolchest/IMG_20171118_202935.jpg "Anarchist Toolchest")
+
 ![Anarchist Toolchest]({{ site.url }}/images/anarchist-toolchest/IMG_20171118_202940.jpg "Anarchist Toolchest")
+
 ![Anarchist Toolchest]({{ site.url }}/images/anarchist-toolchest/IMG_20171118_202950.jpg "Anarchist Toolchest")
+
 ![Anarchist Toolchest]({{ site.url }}/images/anarchist-toolchest/IMG_20171118_203002.jpg "Anarchist Toolchest")
+
 ![Anarchist Toolchest]({{ site.url }}/images/anarchist-toolchest/IMG_20171118_203018.jpg "Anarchist Toolchest")
 
