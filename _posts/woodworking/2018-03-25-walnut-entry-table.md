@@ -17,9 +17,17 @@ Table is solid American Walnut. Top has breadboard ends with Maple pins and wedg
 
 Table is finished with Watco Danish Oil, and Minwax Paste Finishing Wax. The top is finished with Minwax Polycrylic Water-Based Polyurethane for additional durability. 
 
+![Entry Table]({{ site.url }}/images/entry_table/IMG_20180325_140720.jpg "Entry Table")
+
+![Entry Table]({{ site.url }}/images/entry_table/IMG_20180325_140745.jpg "Entry Table")
+
 ![Entry Table]({{ site.url }}/images/entry_table/IMG_20180325_140849.jpg "Entry Table")
 
+![Entry Table]({{ site.url }}/images/entry_table/IMG_20180325_140904.jpg "Entry Table")
+
 ![Entry Table]({{ site.url }}/images/entry_table/IMG_20180325_140800.jpg "Entry Table")
+
+![Entry Table]({{ site.url }}/images/entry_table/IMG_20180325_140700.jpg "Entry Table")
 
 ![Entry Table]({{ site.url }}/images/entry_table/IMG_20180325_141157.jpg "Entry Table")
 
